@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="hostingShesopID" Class="ShesopDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=mssql.lskk.ee.itb.ac.id;Initial Catalog=hostingShesopID;Persist Security Info=True;User ID=shesop" SettingsObjectName="VoiceRecorder.Properties.Settings" SettingsPropertyName="hostingShesopIDConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ES_HeartRate" Member="ES_HeartRates">
+    <Type Name="ES_HeartRate">
+      <Column Name="ID_Number" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="HeartRates" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

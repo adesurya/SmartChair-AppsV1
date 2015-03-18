@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="db_shesop2">
+  <DataContextMoniker Name="/db_shesop2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="0e3aa4ef-848f-4636-a1bf-39052deab614" isExpanded="false" absoluteBounds="3, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/db_shesop2DataContext/STEPPY_API_t_loose_measurement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e15c08be-874a-4fa3-9c2a-fb5ddfd51309" absoluteBounds="3.0149999999999997, 1.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

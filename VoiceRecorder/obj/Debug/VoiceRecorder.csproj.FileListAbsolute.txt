@@ -1,0 +1,351 @@
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.config
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.manifest
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.application
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.pdb
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.g.cs
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.application
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\AutoTuneView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\New folder (develove)\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\NAudio\New folder (2)\App_ElectronicStethoscope\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\2\net 35\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+D:\Kuliah\ITB\TA\APLIKASI\FIX\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application
+C:\Users\itsme_\Downloads\Tesis\Backup Tesis Lama\Hidden_LastPeak\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+C:\Users\itsme_\Downloads\Tesis\Backup Tesis Lama\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+C:\Users\itsme_\Downloads\Tesis\Backup Tesis Lama\Hidden_LastPeak\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.config
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.pdb
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csprojResolveAssemblyReference.cache
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RecorderView.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\RekamJejak.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\SaveView.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\WelcomeView.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\App.g.cs
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.cache
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder_MarkupCompile.lref
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe.manifest
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\bin\Debug\VoiceRecorder.application
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\bin\Debug\VoiceRecorder.exe
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\bin\Debug\VoiceRecorder.pdb
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\MainWindow.baml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.g.resources
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.Properties.Resources.resources
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.csproj.GenerateResource.Cache
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.exe.manifest
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder\obj\Debug\VoiceRecorder.application

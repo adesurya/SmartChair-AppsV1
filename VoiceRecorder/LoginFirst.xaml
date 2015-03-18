@@ -1,0 +1,13 @@
+﻿<Window x:Class="VoiceRecorder.LoginFirst"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LoginFirst" Height="300" Width="300">
+    <Grid>
+        <TextBox Name="textbox1login" HorizontalAlignment="Left" Height="23" Margin="134.298,73,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="134.298,101,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="73.658,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="PASS" HorizontalAlignment="Left" Margin="73.658,101,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="122.596,159.17,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

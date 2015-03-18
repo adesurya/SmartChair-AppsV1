@@ -1,0 +1,41 @@
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Users\LENOVO\Downloads\voicerecorder-a1516d288da1\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\voicerecorder_a1516d288da1\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\NAudio\voicerecorder-a1516d288da1\New folder (2)\New folder (2)\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\APLIKASI\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+D:\Kuliah\ITB\TA\APLIKASI\Backup\2\net 35\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.dll
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\VoiceRecorder.Audio.pdb
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.dll
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\bin\Debug\NAudio.xml
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.dll
+C:\Users\itsme_\Downloads\Tesis\Electronic Stethoscope App\VoiceRecorder.Audio\obj\Debug\VoiceRecorder.Audio.pdb

@@ -1,0 +1,12 @@
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\bin\Debug\Business.exe.config
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\bin\Debug\Business.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\bin\Debug\Business.pdb
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business.g.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Business\obj\Debug\Business.pdb

@@ -1,0 +1,13 @@
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\bin\Debug\Database.exe.config
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\bin\Debug\Database.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\bin\Debug\Database.pdb
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\MainWindow.baml
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\MainWindow.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\App.g.cs
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database_MarkupCompile.cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.g.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.Properties.Resources.resources
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.exe
+D:\Kuliah\ITB\TA\NAudio\App_ElectronicStethoscope\Electronic Stethoscope App\Database\obj\Debug\Database.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ShesopDB">
+  <DataContextMoniker Name="/ShesopDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="05c2044d-36f2-4f4e-8e41-26a734d100d8" absoluteBounds="5.5, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ShesopDBDataContext/ES_HeartRate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="035dc36a-66d0-401b-ace3-a06471670239" absoluteBounds="5.515, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

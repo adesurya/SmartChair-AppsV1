@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="hostingShesopID" Class="db_shesop2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=hostingShesopID;User ID=sa" SettingsObjectName="VoiceRecorder.Properties.Settings" SettingsPropertyName="hostingShesopIDConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.STEPPY_API_t_loose_measurement" Member="STEPPY_API_t_loose_measurements">
+    <Type Name="STEPPY_API_t_loose_measurement">
+      <Column Name="id_measurement" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_user" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="device_type" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="measurement_type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="value" Type="System.Decimal" DbType="Decimal(8,2)" CanBeNull="true" />
+      <Column Name="epoch_timestamp" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="inserted_timestamp" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="id_user_shesop" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

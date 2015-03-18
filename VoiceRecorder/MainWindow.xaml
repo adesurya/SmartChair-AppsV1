@@ -1,0 +1,11 @@
+﻿<Window x:Class="VoiceRecorder.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:VoiceRecorder"
+    Title="SmartHealth Heartbeats Sound" Height="520" Width="375">
+    <Grid>
+        <ContentControl Content="{Binding CurrentView}" />
+        
+        
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VoiceRecorder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LameExePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lame.exe</Value>
+    </Setting>
+    <Setting Name="schoolConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=school;User ID=sa;Password=josgandos&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=school;User ID=sa;Password=josgandos</Value>
+    </Setting>
+    <Setting Name="HeartBeatRecordConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=HeartBeatRecord;Persist Security Info=True;User ID=sa;Password=josgandos&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=HeartBeatRecord;Persist Security Info=True;User ID=sa;Password=josgandos</Value>
+    </Setting>
+    <Setting Name="HeartRateRecordConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=lenovo-pc\diksishesop;Initial Catalog=HeartRateRecord;User ID=sa;Password=josgandos&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=lenovo-pc\diksishesop;Initial Catalog=HeartRateRecord;User ID=sa;Password=josgandos</Value>
+    </Setting>
+    <Setting Name="HeartBeatRecordConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=lenovo-pc\diksishesop;Initial Catalog=HeartBeatRecord;User ID=sa;Password=josgandos&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=lenovo-pc\diksishesop;Initial Catalog=HeartBeatRecord;User ID=sa;Password=josgandos</Value>
+    </Setting>
+    <Setting Name="hostingShesopIDConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=mssql.lskk.ee.itb.ac.id;Initial Catalog=hostingShesopID;Persist Security Info=True;User ID=shesop;Password=890f805f&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=mssql.lskk.ee.itb.ac.id;Initial Catalog=hostingShesopID;Persist Security Info=True;User ID=shesop;Password=890f805f</Value>
+    </Setting>
+    <Setting Name="hostingShesopIDConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=hostingShesopID;User ID=sa;Password=josgandos&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LENOVO-PC\DIKSISHESOP;Initial Catalog=hostingShesopID;User ID=sa;Password=josgandos</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

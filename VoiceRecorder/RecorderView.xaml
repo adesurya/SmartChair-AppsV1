@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="VoiceRecorder.RecorderView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:VoiceRecorder.Core;assembly=VoiceRecorder.Core" ClipToBounds="True" Width="400" >
+    <UserControl.Resources>
+        <Style x:Key="{x:Type ProgressBar}"
+     TargetType="{x:Type ProgressBar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ProgressBar}">
+                        <Grid MinHeight="14" MinWidth="200">
+                            <Border Name="PART_Track">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                                        <GradientStop Offset="0" Color="#FF00FF00" />
+                                        <GradientStop Offset="0.9" Color="#FFFFFF00" />
+                                        <GradientStop Offset="1" Color="#FFFF0000" />
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                            </Border>
+                            <DockPanel>
+                                <Rectangle DockPanel.Dock="Left" Name="PART_Indicator" />
+                                <Rectangle Name="Mask" Fill="#C0C0C0" />
+                            </DockPanel>
+                            <Border BorderThickness="1" BorderBrush="#888888" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <StackPanel Height="475" Width="400"  >
+        <StackPanel.Background>
+            <ImageBrush ImageSource="pic/222.jpg" />
+        </StackPanel.Background>
+        <Label Margin="56,5" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" Content="SHESOP SMART CHAIR APPS "/>
+        <Label Margin="66.25,5,56,5" HorizontalAlignment="Center" FontWeight="Bold" FontSize="15" Content="" Width="277.75"/>
+        <Label Margin="106.25,5,88.75,5" Content="SOUND HEART BEATS ANALYZER" FontFamily="Segoe WP Black" FontStyle="Italic" FontWeight="Black"/>
+        <ProgressBar Margin="5,5,10,5" Orientation="Horizontal" 
+                     Value="{Binding CurrentInputLevel, Mode=OneWay}" Height="13.333" />
+        <StackPanel >
+            <Label Margin="130.38,2,147.38,1" Content=" ANALYZE   STOP" FontSize="14" FontWeight="Bold"/>
+        </StackPanel>
+        <StackPanel   Height="50"  Margin="1" Orientation="Horizontal" Width="120.942" >
+            <Button  Command="{Binding BeginRecordingCommand}" Margin="5" ToolTip="Start Recording" >
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                        <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                        <GradientStop Color="#FFF55757" Offset="0.142"/>
+                        <GradientStop Color="#FFE03A3A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+                <Image  Source="pic/rec1.png" Stretch="Fill" Height="0" Width="40"/>
+            </Button>
+            <Button  Command="{Binding StopCommand}" Margin="5" ToolTip="Stop Recording" >
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FF9191EA" Offset="0"/>
+                        <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                        <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                        <GradientStop Color="#FF569CE2" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+                <Image  Source="pic/stop2.png" Stretch="Fill" Height="40" Width="40" RenderTransformOrigin="2.714,0.454"/>
+            </Button>
+        </StackPanel>
+
+        <my:PolygonWaveFormControl Margin="0,5" Height="70" SampleAggregator="{Binding SampleAggregator}" IsEnabled="{Binding ShowWaveForm}" />
+        <Canvas Height="2" Margin="0,-9,10,0">
+            <TextBlock Text="WAKTU" FontWeight="Bold" Width="55" Canvas.Left="35.493" Canvas.Top="2"/>
+            <TextBlock FontWeight="Bold" FontSize="14" Width="46" Canvas.Left="134.493" Canvas.Top="2"><Run FontSize="12" Text="DETAK"/></TextBlock>
+            <TextBlock Text="HEART RATE" FontWeight="Bold" Width="71"  Canvas.Left="214.493" Canvas.Top="3"/>
+            <TextBlock Text="BERAT BADAN" FontWeight="Bold" Width="87"  Canvas.Left="299.493" Canvas.Top="3" Height="16"/>
+        </Canvas>
+        <StackPanel Orientation="Horizontal" Margin="1.5,10,0,10" Height="82.507">
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="3" Margin="2" Width="101">
+                <StackPanel Width="82">
+                    <Image Source="pic/bg10.png" Height="45" Stretch="Fill"  />
+                    <TextBlock Margin="0,1" Text="{Binding RecordedTime}" FontWeight="Bold" FontSize="16"/>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="3" Margin="2" Width="87">
+                <StackPanel>
+                    <Image Source="pic/hr7.jpg" Width="81.5" Height="45" Stretch="Fill" HorizontalAlignment="Left" Margin="1.5,0,0,0"  />
+                    <TextBlock Margin="0,1" Text="{Binding HeartBeats}" FontWeight="Bold" FontSize="16" VerticalAlignment="Top" Width="21.956" HorizontalAlignment="Center"  />
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="3" Margin="2" >
+                <StackPanel>
+                    <Image Source="pic/hb8.jpg" Width="85" Height="45" Stretch="Fill"  />
+                    <TextBlock Margin="3,1"  Text="{Binding HeartRate}" FontWeight="Bold"  FontSize="16" RenderTransformOrigin="0.5,-0.619" Height="21" Width="77"/>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="3" Margin="2" >
+                <StackPanel>
+                    <Image Source="pic/hb8.jpg" Width="85" Height="45" Stretch="Fill"  />
+                    <TextBlock x:Name="txtNilai" TextWrapping="Wrap" Text="0" FontWeight="Bold" FontSize="16" VerticalAlignment="Top" Width="21.956" />
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+
+        <Label Content="          LSKK RESEARCH GROUP" Height="24"  Margin="150,-238,0,-266" Background="Black" FontStyle="Italic" FontWeight="Black" BorderBrush="White" BorderThickness="0" FontSize="13" Foreground="White">
+            <Label.ContextMenu>
+                <ContextMenu/>
+            </Label.ContextMenu>
+        </Label>
+        <Label Content="  SMART HEALTH AS OPEN PLATFORM" Height="55.358" Margin="150,-170,0,-266" Background="Black" FontStyle="Italic" FontWeight="Black" BorderBrush="White" BorderThickness="0" FontSize="11.5" Foreground="White" RenderTransformOrigin="0.516,0.905">
+            <Label.ContextMenu>
+                <ContextMenu/>
+            </Label.ContextMenu>
+        </Label>
+        <Label Content="                   shesop.lskk.ee.itb.ac.id" Height="25" Margin="150,40,0,0" Background="Black" FontStyle="Italic" BorderBrush="White" BorderThickness="0" Foreground="White">
+            <Label.ContextMenu>
+                <ContextMenu/>
+            </Label.ContextMenu>
+        </Label>
+    </StackPanel>
+</UserControl>
